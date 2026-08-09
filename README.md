@@ -38,4 +38,5 @@ A Pygame chase-style action game where the player must dodge attacks, collect bo
 - this can be used only if you manage the environment well
 - the environment in this case was made mainly by me but using AI for debugging the environment
 - code has all the instructions and comments written to ensure that the code is simple to understand.
-- also, the images used in this can be copy write inclusive. 
+- also, the images used in this can be copy write inclusive.
+- I recommend using a virtual environment if you can , this code can cause certain weird errors if your environment is not suitable.
